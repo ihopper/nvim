@@ -1,2 +1,2 @@
 # nvim
-My current neovim config
+My current neovim config, based on kickstart.nvim
